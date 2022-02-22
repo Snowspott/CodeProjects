@@ -6,3 +6,7 @@ My first code ever written, a pearl script that looked for a variable in a CYS31
   
 NordOff 2x3 (6x6) Sudoko Code: 
   =>"SudokoSolved.py" python (Solved 06.12.2019) 
+
+
+Papirfly Oppgaver
+=> "solution_so_far.zip" 
