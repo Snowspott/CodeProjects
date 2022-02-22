@@ -8,5 +8,5 @@ NordOff 2x3 (6x6) Sudoko Code:
   =>"SudokoSolved.py" python (Solved 06.12.2019) 
 
 
-Papirfly Oppgaver
+Papirfly Oppgaver   Html/JS/CSS  - C#
 => "solution_so_far.zip" 
